@@ -10,7 +10,7 @@ That’s also why these pages live on [GitHub](https://github.com/agruen/entj/ed
 We’re currently in the earliest stages of working this out, and invite comment on our [working outline](outline.md).
 
 # Get In Touch
-<form method="POST" action="https://formspree.io/ag@orangechair.org">
+<form method="POST" action="https://formspree.io/entj@orangechair.org">
   <input type="text" name="name" placeholder="Your name">
   <input type="email" name="email" placeholder="Your email">
   <textarea name="message" placeholder="Write to us"></textarea>
