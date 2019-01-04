@@ -11,8 +11,8 @@ We’re currently in the earliest stages of working this out, and invite comment
 
 # Get In Touch
 <form method="POST" action="https://formspree.io/entj@orangechair.org">
-  <input type="text" name="name" placeholder="Your name">
-  <input type="email" name="email" placeholder="Your email">
-  <textarea name="message" placeholder="Write to us"></textarea>
+  <input type="text" name="name" placeholder="Your name"><br />
+  <input type="email" name="email" placeholder="Your email"><br />
+  <textarea name="message" placeholder="Write to us"></textarea><br />
   <button type="submit">Send</button>
 </form>
