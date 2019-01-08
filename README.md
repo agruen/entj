@@ -7,7 +7,11 @@ While we call it a book, that’s not quite accurate in the literal sense.  With
 That’s also why these pages live on [GitHub](https://github.com/agruen/entj/edit/master/README.md).  While the organization we’re building aims to collect experts to keep this updated, anyone in the world can see what we’re working on, fork it, and offer their own updates.  We hope people will!
 
 # Current Plans
-We’re currently in the earliest stages of working this out, and invite comment on our [working outline](outline.md).
+We’re currently in the earliest planning stages, and invite comment on our [working outline](outline.md).
+
+# Current Collaborators
+* [Andrew Gruen](https://workingpaper.co/andrew-gruen)
+* [Paul Glader](https://www.vettnews.com/paul-glader)
 
 # Get In Touch
 <form method="POST" action="https://formspree.io/entj@orangechair.org">
