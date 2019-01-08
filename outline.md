@@ -130,6 +130,7 @@
    4. Insurance
    5. Expertise
    6. Safety
+   7. Examples
 
 
 # Per chapter supporting materials (Uniform across chapters)
