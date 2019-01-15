@@ -127,10 +127,12 @@
    1. An age-old journalistic enterprise of one
    2. How it works
    3. Contracts
-   4. Insurance
-   5. Expertise
-   6. Safety
-   7. Examples
+   4. Ownership of social media accounts
+   5. Copyrights
+   6. Insurance
+   7. Expertise
+   8. Safety
+   9. Examples
 
 
 # Per chapter supporting materials (Uniform across chapters)
