@@ -2,18 +2,19 @@
 {:toc}
 
 # The state of the universe
-   1. What’s happening now
+   1. What’s happening now in media. What are the big problems to be solved? How does an entrpreneur approach a big problem and come up with a solution?
 
 # Ideas to Businesses
-   1. Introduction to multiple insights that are then built into ideas in many industries and over time, think from Bloomberg to Amazon to Stratechery to The Information to The Texas Tribune to NPR.
+   1. Generating a business idea
+   2. Introduction to multiple insights that are then built into ideas in many industries and over time, think from Bloomberg to Amazon to Stratechery to The Information to The Texas Tribune to NPR.
    2. Triple bottom line thinking in Journalism
       1. All journalistic enterprises — for profit and non-profit — are actually triple bottom line entities
          1. What it is (Triple-Bottom Line Thinking)
          2. Where it comes from (Origins and development)
          3. Why it matters to journalism
          4. Limitations and challenges
-      1. Business Isn’t For Other People (it’s for you)
-   3. Validating your idea
+      1. Business Isn’t For Other People (it’s for you) 
+   3. Validating your idea. Lean Startup methodology and customer discovery process. Talking to customers. Filling out business model canvas. Identifying the value proposition and segmenting the customers to find market fit. Sizing the market. Developing a Minimum Viable Product. Knowing when you are ready to move forward. 
 
 # What is an organization?
    1. Even single-person businesses interact with a wide array of other people, making it a virtual organization
