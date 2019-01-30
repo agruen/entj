@@ -2,7 +2,9 @@
 {:toc}
 
 # The state of the universe
-   1. What’s happening now in media. What are the big problems to be solved? How does an entrpreneur approach a big problem and come up with a solution?
+   1. What’s happening now in media.
+   2. What are the big problems to be solved?
+   3. How does an entrpreneur approach a big problem and come up with a solution? The roadmap for this book.
 
 # Ideas to Businesses
    1. Generating a business idea
@@ -14,7 +16,13 @@
          3. Why it matters to journalism
          4. Limitations and challenges
       1. Business Isn’t For Other People (it’s for you) 
-   3. Validating your idea. Lean Startup methodology and customer discovery process. Talking to customers. Filling out business model canvas. Identifying the value proposition and segmenting the customers to find market fit. Sizing the market. Developing a Minimum Viable Product. Knowing when you are ready to move forward. 
+   3. Validating your idea, using the Lean Startup Methodology and customer discovery process. 
+      1. Talking to customers
+      2. Filling out business model canvas
+      3. Identifying the value proposition and segmenting the customers to find market fit
+      4. Sizing the market
+      5. Developing a Minimum Viable Product
+      6. Knowing when you are ready to move forward
 
 # What is an organization?
    1. Even single-person businesses interact with a wide array of other people, making it a virtual organization
