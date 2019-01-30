@@ -2,7 +2,7 @@
 {:toc}
 
 # The state of the universe
-   1. What’s happening now in media.
+   1. What’s happening now in media?
    2. What are the big problems to be solved?
    3. How does an entrpreneur approach a big problem and come up with a solution? The roadmap for this book.
 
