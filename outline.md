@@ -13,6 +13,7 @@
          3. Why it matters to journalism
          4. Limitations and challenges
       1. Business Isn’t For Other People (it’s for you)
+   3. Validating your idea
 
 # What is an organization?
    1. Even single-person businesses interact with a wide array of other people, making it a virtual organization
