@@ -12,7 +12,6 @@ We’re currently in the earliest planning stages, and invite comment on our [wo
 # Current Collaborators
 * [Andrew Gruen](https://workingpaper.co/andrew-gruen)
 * [Paul Glader](https://www.vettnews.com/paul-glader)
-* Andrew's Mom
 
 # Get In Touch
 <form method="POST" action="https://formspree.io/entj@orangechair.org">
